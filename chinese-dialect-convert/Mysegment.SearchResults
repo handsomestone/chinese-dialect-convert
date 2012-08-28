@@ -1,0 +1,2 @@
+---- CFG Matches (1 in 1 files) ----
+Configuration.java (src\org\wltea\analyzer\cfg):	//private static final Configuration CFG = new Configuration();
